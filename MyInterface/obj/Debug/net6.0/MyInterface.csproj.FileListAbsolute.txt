@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\MyInterface\MyInterface\bin\Debug\net6.0\MyInterface.exe
+C:\Users\shane\source\repos\MyInterface\MyInterface\bin\Debug\net6.0\MyInterface.deps.json
+C:\Users\shane\source\repos\MyInterface\MyInterface\bin\Debug\net6.0\MyInterface.runtimeconfig.json
+C:\Users\shane\source\repos\MyInterface\MyInterface\bin\Debug\net6.0\MyInterface.dll
+C:\Users\shane\source\repos\MyInterface\MyInterface\bin\Debug\net6.0\MyInterface.pdb
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.AssemblyInfo.cs
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.dll
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\refint\MyInterface.dll
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.pdb
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\MyInterface.genruntimeconfig.cache
+C:\Users\shane\source\repos\MyInterface\MyInterface\obj\Debug\net6.0\ref\MyInterface.dll
